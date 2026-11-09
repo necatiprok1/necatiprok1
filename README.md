@@ -1,22 +1,19 @@
-<!--
-  TheDarkDev — GitHub Profile README
-  Theme: Black / Red
--->
+<!-- TheDarkDev | Black & Red GitHub Profile -->
 
 <div align="center">
 
   <h1>THE DARK DEV</h1>
   <p><strong>Building what's next.</strong></p>
   <p>
-    <code>Software Developer</code> · <code>Indie Builder</code> · <code>Technology Enthusiast</code>
+    <code>Software Developer</code> · <code>Indie Builder</code> · <code>Programming Language Enthusiast</code>
   </p>
 
   <p>
-    <a href="https://github.com/necatiprok1">
-      <img src="https://img.shields.io/badge/GitHub-necatiprok1-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
     <a href="https://github.com/necatiprok1?tab=repositories">
-      <img src="https://img.shields.io/badge/Repositories-Explore-8B0000?style=for-the-badge&logo=git&logoColor=white" alt="Repositories" />
+      <img src="https://img.shields.io/badge/Explore-My%20Repositories-8B0000?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+    </a>
+    <a href="https://github.com/necatiprok1/nect">
+      <img src="https://img.shields.io/badge/Featured%20Project-Nect-111111?style=for-the-badge&logo=rust&logoColor=white" alt="Nect project" />
     </a>
   </p>
 
@@ -26,46 +23,60 @@
 
 ## ABOUT / HAKKIMDA
 
-**EN** — I'm a developer interested in software engineering, programming languages, AI, and building useful products. I enjoy exploring how things work and turning ideas into real projects.
+**EN** — I'm a developer interested in software engineering, programming languages, AI, and building useful products. I enjoy exploring how systems work and turning ideas into real projects.
 
-**TR** — Yazılım mühendisliği, programlama dilleri, yapay zekâ ve kullanışlı ürünler geliştirmekle ilgilenen bir yazılımcıyım. Teknolojilerin nasıl çalıştığını keşfetmeyi ve fikirleri gerçek projelere dönüştürmeyi seviyorum.
+**TR** — Yazılım mühendisliği, programlama dilleri, yapay zekâ ve kullanışlı ürünler geliştirmekle ilgileniyorum. Sistemlerin nasıl çalıştığını keşfetmeyi ve fikirleri gerçek projelere dönüştürmeyi seviyorum.
 
-## WHAT I'M BUILDING / GELİŞTİRDİKLERİM
+## FEATURED PROJECTS / ÖNE ÇIKAN PROJELER
 
-### [Nect](https://github.com/necatiprok1/nect)
-A dynamic scripting language project featuring a bytecode virtual machine, Cranelift-based JIT compilation, and a C backend.
+### [Nect](https://github.com/necatiprok1/nect) — Programming Language
+A dynamic scripting language with a bytecode virtual machine, Cranelift-based JIT compilation, and a C backend.
 
-*Bytecode VM · JIT · Compiler / Runtime Engineering*
+**Rust · Bytecode VM · JIT · Compiler / Runtime**
 
-### [Luminex](https://github.com/necatiprok1/luminex)
-An AI-focused Discord bot project.
+### [Luminex](https://github.com/necatiprok1/luminex) — Discord Bot
+A modular Discord bot project built with Discord.js, featuring command modules, AI integration, and an Express-based dashboard.
 
-### [Nexus-L](https://github.com/necatiprok1/Nexus-L)
-A programming-language project and part of my experiments with language design.
+**Node.js · Discord.js · Express · MongoDB**
+
+### [Nexus-L](https://github.com/necatiprok1/Nexus-L) — Language Experiment
+An experimental Rust project exploring lexical analysis, parsing, ASTs, and interpretation.
+
+**Rust · Lexer · Parser · Interpreter**
 
 ## INTERESTS / İLGİ ALANLARIM
 
 - Software engineering & system design
 - Programming languages, compilers & virtual machines
 - Artificial intelligence & developer tools
-- Desktop applications & product development
+- Backend systems & desktop applications
 - Open-source software
 
-## TECHNOLOGY
+## TECHNOLOGIES
 
 <p>
   <img src="https://img.shields.io/badge/Rust-111111?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=5FA04E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/Discord.js-111111?style=flat-square&logo=discord&logoColor=5865F2" alt="Discord.js" />
+  <img src="https://img.shields.io/badge/Express-111111?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
 </p>
 
-## FIND ME ON GITHUB
+## GITHUB ACTIVITY
 
-- Explore my [repositories](https://github.com/necatiprok1?tab=repositories)
-- Check out [Nect](https://github.com/necatiprok1/nect)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=necatiprok1&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E53935&icon_color=E53935&text_color=C9D1D9" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=necatiprok1&layout=compact&hide_border=true&bg_color=0D1117&title_color=E53935&text_color=C9D1D9" height="165" alt="Top languages" />
+</div>
+
+## EXPLORE
+
+- [All repositories](https://github.com/necatiprok1?tab=repositories)
+- [Nect documentation and source](https://github.com/necatiprok1/nect)
+- [Luminex source](https://github.com/necatiprok1/luminex)
+- [Nexus-L source](https://github.com/necatiprok1/Nexus-L)
 
 <div align="center">
   <sub><strong>BLACK × RED</strong> · Think. Build. Improve.</sub>
