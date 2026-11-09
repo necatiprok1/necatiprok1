@@ -39,6 +39,11 @@ A modular Discord bot project built with Discord.js, featuring command modules, 
 
 **Node.js · Discord.js · Express · MongoDB**
 
+### [Rush Browser](https://github.com/necatiprok1/Rush-Browser) — Desktop Browser
+An Electron-based desktop browser experiment exploring workspaces, vertical tabs, reading mode, extension workflows, and privacy-oriented controls.
+
+**Electron · JavaScript · Node.js · Desktop Applications**
+
 ### [Nexus-L](https://github.com/necatiprok1/Nexus-L) — Language Experiment
 An experimental Rust project exploring lexical analysis, parsing, ASTs, and interpretation.
 
@@ -59,6 +64,7 @@ An experimental Rust project exploring lexical analysis, parsing, ASTs, and inte
   <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=5FA04E" alt="Node.js" />
   <img src="https://img.shields.io/badge/Discord.js-111111?style=flat-square&logo=discord&logoColor=5865F2" alt="Discord.js" />
+  <img src="https://img.shields.io/badge/Electron-111111?style=flat-square&logo=electron&logoColor=9FEAF9" alt="Electron" />
   <img src="https://img.shields.io/badge/Express-111111?style=flat-square&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
   <img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
@@ -76,6 +82,7 @@ An experimental Rust project exploring lexical analysis, parsing, ASTs, and inte
 - [All repositories](https://github.com/necatiprok1?tab=repositories)
 - [Nect documentation and source](https://github.com/necatiprok1/nect)
 - [Luminex source](https://github.com/necatiprok1/luminex)
+- [Rush Browser source](https://github.com/necatiprok1/Rush-Browser)
 - [Nexus-L source](https://github.com/necatiprok1/Nexus-L)
 
 <div align="center">
